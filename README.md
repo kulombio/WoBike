@@ -15,7 +15,6 @@ Public transport and multimodal routing apps could benefit from showing nearby b
 - [BYKE/WIND (Germany)](Wind.md)
 - [Dropbike (Canada)](Dropbike.md)
 - [SocialBicycles (USA, Canada, Czech Republic, Poland)](SocialBicycles.md)
-- [OnzO (New Zealand)](Onzo.md)
 - [Bixi (Montreal)](Bixi.md)
 - [EUBIKE (Sweden)](EUBike.md)
 - [Lidl-Bike](Lidl-Bike.md)
@@ -25,8 +24,9 @@ Public transport and multimodal routing apps could benefit from showing nearby b
 - [oBike (Worldwide)](Obike.md)
 - [ofo bike (China, UK, US, Austria, Thailand, Singapore, France, India)](Ofo.md)
 - [Bluegogo (China, US)](Bluegogo.md)
+- [OnzO (New Zealand)](Onzo.md)
 
-## E-Scooters (that you stand on)
+## E-Scooters (🛴, that you stand on)
 - [Bird](Bird.md)
 - [VOI (Europe)](Voi.md)
 - [Circ](Circ.md)
@@ -36,11 +36,14 @@ Public transport and multimodal routing apps could benefit from showing nearby b
 - [Ufo (Europe)](Ufo.md)
 - [Zero (Germany)](Zero.md)
 - [Scoota (Austria)](Scoota.md)
+- [Beam (Singapore, Australia, Maylasia and New Zealand)](Beam.md)
+- [Flamingo (New Zealand)](Flamingo.md)
 
 ## Bikes/E-Scooters
 - [LimeBike](Lime.md)
 - [JUMP (USA)](Jump.md)
 - [Spin](Spin.md)
+- [Pony](Pony.md)
 - [Zagster](Zagster.md)
 
 ## Scooters (🛵, that you sit on)
@@ -52,6 +55,7 @@ Public transport and multimodal routing apps could benefit from showing nearby b
 * [GBFS (General Bikeshare Feed Specification)](https://github.com/NABSA/gbfs)
 * [Bikesharing World Map](https://www.google.com/maps/d/u/0/viewer?mid=1UxYw9YrwT_R3SGsktJU3D-2GpMU&ll=50.01042750703113%2C35.03132237929685&z=2)
 * [Open Bike Share Data](https://bikeshare-research.org/)
+* For more documentation and some updates on the APIs, a look into the issues section could be helpful. Also feel free to add APIs from the issues into the documentation.
 
 ## Todo
 * [Pony Bikes](http://getapony.com/) (uses certificate pinning)
